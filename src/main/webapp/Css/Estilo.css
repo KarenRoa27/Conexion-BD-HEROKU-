@@ -1,0 +1,28 @@
+/* 
+    Created on : 26/09/2022, 10:30:54 a. m.
+    Author     : Karen Yulied Bohorquez Roa 
+*/
+
+.container{
+    background-color: yellow;
+    border-radius: 10px;
+    padding: 25px;
+    margin-top: 50px;
+}
+body {
+    font-family: cursive, Helvetica, sans-serif;
+    margin: 0;
+    background-image:url(Fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+    *{
+        text-align: center;
+        color:black;
+    }
+    h1
+    {
+        font-size:18px;
+        text-align:center;
+        color:#000000;
+    }
